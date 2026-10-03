@@ -3,7 +3,7 @@ archetype: "blog-post"
 title: "How To Choose a Restoration Company in Bakersfield (Without Getting Burned)"
 h1: "How To Choose a Restoration Company in Bakersfield (Without Getting Burned)"
 meta_description: ""
-primary_keyword: "how to choose a restoration company in  without getting burned"
+primary_keyword: "how to choose a restoration company in bakersfield without getting burned"
 secondary_keywords: ["water damage restoration", "fire damage restoration", "mold remediation"]
 search_intent: "commercial_decision"
 priority: 5.4
