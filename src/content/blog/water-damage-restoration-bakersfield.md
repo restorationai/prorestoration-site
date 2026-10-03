@@ -18,6 +18,7 @@ published_at: "2026-09-20"
 updated_at: "2026-10-03"
 services: []
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** Water damage in Bakersfield moves fast. Slab-on-grade construction and hard water make burst supply lines and slab leaks the most common culprits, and wet materials can grow mold within 24 to 48 hours. Stop the water source, document everything with photos, call your insurance company to open a claim, and get a certified restoration crew on-site the same day. The longer standing water sits on concrete slab or soaks into drywall, the more expensive the repair.
 

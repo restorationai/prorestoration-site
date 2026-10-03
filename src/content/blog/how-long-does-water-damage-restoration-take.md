@@ -16,6 +16,7 @@ faq: [{"question": "Can I stay in my home during water damage restoration?", "an
 published_at: "2026-06-17"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Jack Bispo"
 ---
 Most water damage restoration jobs take **3 to 5 days** from the moment a crew arrives to the point where the structure is dry enough for repairs. That's the honest middle-of-the-road answer. A small bathroom leak caught the same day it started can be wrapped up in 72 hours. A slow pipe leak that soaked a wall cavity for two weeks before anyone noticed can stretch into 7 to 10 days of drying alone, and that's before a single piece of drywall gets replaced. The variable that matters most isn't the size of the puddle you can see. It's how long the water has been sitting, and where it went.
 

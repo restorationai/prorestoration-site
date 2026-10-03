@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take for mold to grow after a water leak?",
 published_at: "2026-06-25"
 services: ["mold-remediation"]
 rendered: true
+author: "Jack Bispo"
 ---
 Hidden mold doesn't always look like the black splotches you've seen in renovation horror stories. More often, it's growing inside a wall cavity, under vinyl flooring, or above a drop ceiling, completely invisible until it's been there for weeks or months. If you've noticed a musty smell you can't trace, had a slow leak you thought you fixed, or live in a home with older plumbing, there's a real chance mold is already colonizing somewhere you can't see. Here are seven specific signs to look for, and a clear path forward once you find them.
 

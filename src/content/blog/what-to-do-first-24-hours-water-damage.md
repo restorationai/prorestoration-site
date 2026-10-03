@@ -16,6 +16,7 @@ faq: [{"question": "How long does water have to sit before mold starts growing?"
 published_at: "2026-07-05"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Jack Bispo"
 ---
 If water is actively spreading through your home right now, do these three things first: **shut off the water source**, **cut power to any flooded rooms at the breaker**, and **move valuables and documents off the floor**. Everything else, drying, documentation, insurance calls, comes after those three steps. The clock matters more than most people realize: mold can begin colonizing wet drywall and wood framing within 24 to 48 hours of a moisture event, and the difference between a manageable repair and a gut-and-rebuild often comes down to what happens in that first day.
 

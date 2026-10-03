@@ -16,6 +16,7 @@ faq: [{"question": "Can I get sick from mold that isn't Stachybotrys?", "answer"
 published_at: "2026-06-25"
 services: ["mold-remediation"]
 rendered: true
+author: "Jack Bispo"
 ---
 Most mold you find in a home is not the toxic black mold you've read about, but some of it is, and the color alone won't tell you which is which. The short answer: you cannot reliably identify *Stachybotrys chartarum* (the mold commonly called "toxic black mold") by looking at it. Color, texture, and smell give you clues, but a lab test is the only way to confirm the species. What you *can* do at home is assess the size of the problem, recognize warning signs that suggest a more serious situation, and decide whether this is a job for a sponge and bleach or a call to a certified remediation crew.
 

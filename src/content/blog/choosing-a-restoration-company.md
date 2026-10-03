@@ -16,6 +16,7 @@ faq: [{"question": "Can my insurance company force me to use their preferred res
 published_at: "2026-06-30"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Jack Bispo"
 ---
 The short answer: vet the license, check the certifications, read the insurance process, and get everything in writing before anyone touches your property. In Bakersfield's Central Valley climate, where summer heat accelerates mold growth and aging tract-home plumbing fails without warning, the restoration company you call in the first hour can determine how long you're displaced and how much of the bill your insurance actually covers. Here's how to make that call with confidence.
 

@@ -16,6 +16,7 @@ faq: [{"question": "How do I know if water got into my walls after a burst pipe?
 published_at: "2026-06-23"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Jack Bispo"
 ---
 When a pipe bursts, you have roughly the first 15 minutes to limit the damage. Shut off the water, cut the electricity to affected areas, and start documenting, in that order. The steps below walk you through exactly what to do from the moment you hear that rush of water or spot a soaked ceiling, through the cleanup decisions you'll face over the next 24 to 72 hours. Keep this page open on your phone.
 

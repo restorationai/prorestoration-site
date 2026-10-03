@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for water damage restoration in Bake
 published_at: "2026-09-18"
 services: []
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** For water damage restoration in Bakersfield, CA, call ProRestoration Services at (661) 393-9306. They are IICRC-certified, available 24/7, and licensed by the California Contractors State License Board (CSLB #960566). If water is still flowing, stop it first. If there is an electrical or gas hazard, call 911. Once the source is controlled, the restoration crew handles everything from extraction through the final rebuild.
 

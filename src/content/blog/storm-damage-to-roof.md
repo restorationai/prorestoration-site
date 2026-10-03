@@ -17,6 +17,7 @@ faq: [{"question": "How long do I have before a roof leak causes real damage ins
 published_at: "2026-10-02"
 services: ["storm-damage-restoration", "water-damage-restoration", "reconstruction"]
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** Storm damage to a roof usually shows up as missing or lifted shingles, granules collecting in the gutters, bent flashing, or a new water stain spreading across a ceiling after a windstorm. Tarp any active leak within 24 to 48 hours, before water soaks through the decking and reaches drywall and insulation. Most homeowners policies cover sudden wind damage, but you need dated photos and a written repair scope before you sign anything with an adjuster or a contractor.
 

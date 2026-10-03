@@ -16,6 +16,7 @@ faq: [{"question": "My insurance adjuster hasn't come out yet. Can I start dryin
 published_at: "2026-06-21"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Jack Bispo"
 ---
 Whether your homeowners insurance covers water damage depends almost entirely on *how* the water got in, not how much damage it caused. The short answer: sudden, accidental water damage (a burst pipe, a washing machine hose that lets go, an overflowing toilet) is almost always covered. Slow leaks you didn't fix, flooding from outside, and water that seeped in through a foundation crack almost never are. Understanding that one distinction, sudden vs. gradual, internal vs. external, will answer about 80% of the questions you have right now.
 

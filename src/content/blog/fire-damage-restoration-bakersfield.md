@@ -18,6 +18,7 @@ published_at: "2026-09-22"
 updated_at: "2026-10-03"
 services: []
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** After a house fire in Bakersfield, your first calls go to 911 (if you haven't already), your insurance company, and a licensed fire damage restoration contractor. Do not re-enter until the fire department clears the structure. A certified crew will secure the property, remove soot and smoke residue, dry out any water from suppression efforts, and rebuild what was lost. The faster you act, the less secondary damage you face.
 

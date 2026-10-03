@@ -16,6 +16,7 @@ faq: [{"question": "Can mold grow inside walls without being visible on the surf
 published_at: "2026-06-30"
 services: ["mold-remediation", "water-damage-restoration"]
 rendered: true
+author: "Jack Bispo"
 ---
 Mold can begin colonizing wet materials in as little as **24 to 48 hours** after water damage, sometimes faster in Bakersfield's summer heat. That window is not a worst-case estimate; it's the baseline. The spores are already in the air and on every surface in your home. All they need is moisture, a food source (drywall paper, wood framing, carpet backing), and temperatures above roughly 40°F. Once those three conditions align, the clock starts. By day three or four, you may have visible growth. By day seven, you can have a colony that has spread several inches in every direction.
 

@@ -17,6 +17,7 @@ faq: [{"question": "Is sewage backup in a house dangerous to clean up yourself?"
 published_at: "2026-09-24"
 services: ["sewage-cleanup", "water-damage-restoration"]
 rendered: true
+author: "Jack Bispo"
 ---
 **TL;DR:** A sewage backup in your house is a Category 3 (black water) emergency. Turn off the water supply if sewage is still flowing, evacuate the affected area, and call a certified restoration company before touching anything. Black water contains raw sewage, bacteria, and pathogens that make DIY cleanup genuinely dangerous. Most standard homeowners policies exclude sewer backup unless you added a water backup endorsement, check your declarations page now, before you call your insurer.
 

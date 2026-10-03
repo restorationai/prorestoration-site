@@ -16,6 +16,7 @@ faq: [{"question": "How long does fire damage restoration typically take from st
 published_at: "2026-07-02"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Jack Bispo"
 ---
 After a house fire, most families stand in the driveway wondering the same thing: *what happens now?* The short answer is that fire damage restoration follows a defined sequence, emergency stabilization, assessment, water and smoke removal, structural drying, cleaning, and finally reconstruction. Each phase builds on the last, and skipping or rushing one creates problems that surface months later. This post walks through every stage so you know what to expect, what questions to ask your contractor, and what you can safely do yourself before the crew arrives.
 

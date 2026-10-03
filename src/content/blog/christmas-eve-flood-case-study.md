@@ -17,6 +17,7 @@ faq: [{"question": "What should I do first if my house floods on a holiday or we
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Jack Bispo"
 ---
 A flood on a holiday weekend is one of the worst-timed losses a homeowner can face. Contractors are harder to reach, insurance adjusters are out of office, and every hour of standing water adds to the repair bill. Here's what one homeowner experienced when her house flooded on Christmas Eve, in her own words.
 

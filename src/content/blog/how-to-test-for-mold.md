@@ -16,6 +16,7 @@ faq: [{"question": "Can a positive DIY mold test result be used for an insurance
 published_at: "2026-06-25"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Jack Bispo"
 ---
 DIY mold test kits cost around $10–$50 and can confirm that mold spores exist somewhere in your home. What they cannot tell you is *which* species you're dealing with, how far the colony has spread behind your walls, or whether the moisture source feeding it has been fixed. If you're trying to decide between a drugstore kit and a certified inspection, the short answer is: DIY kits are a reasonable first step for a small, visible stain you're unsure about, but any result that comes back positive, or any situation involving hidden moisture, a musty smell without an obvious source, or a health concern, warrants a professional assessment.
 
