@@ -1,11 +1,11 @@
 ---
 hero: /images/hero-bg.webp
 archetype: "home"
-title: "ProRestoration Services | Restoration Services in Bakersfield, CA"
-h1: "24/7 Restoration Services in Bakersfield"
-meta_description: "ProRestoration Services provides 24/7 water, fire, mold, and storm damage restoration across Bakersfield and surrounding areas. Licensed, insured, IICRC-certified. Call (661) 393-9306."
-primary_keyword: "restoration services bakersfield"
-secondary_keywords: ["restoration company near me", "24/7 damage restoration", "emergency restoration"]
+title: "Water Damage Restoration in Bakersfield, CA | ProRestoration Services"
+h1: "24/7 Water Damage Restoration in Bakersfield, CA"
+meta_description: "ProRestoration Services provides water damage restoration in Bakersfield, CA, answering 24/7. IICRC certified. Call (661) 393-9306 now."
+primary_keyword: "water damage restoration bakersfield"
+secondary_keywords: ["best restoration company in bakersfield", "restoration company bakersfield", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "be79fbe03ce629ae"
