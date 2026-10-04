@@ -260,3 +260,11 @@
 /service-areas/wasco-ca/water-cleanup/ /service-areas/wasco-ca/water-damage-restoration/ 301
 /service-areas/weedpatch-ca/water-cleanup /service-areas/weedpatch-ca/water-damage-restoration/ 301
 /service-areas/weedpatch-ca/water-cleanup/ /service-areas/weedpatch-ca/water-damage-restoration/ 301
+
+# old-site 404 recovery 2026-10-04 (traffic audit class 2, SEO queue 1c): old URLs with search
+# traffic that matched no rule. Each 301s 1:1 to its equivalent page (hand-reviewed), never a
+# generic one; restored articles live under /blog/.
+/where-does-bakersfield-get-its-water-from /service-areas/bakersfield-ca/ 301
+/where-does-bakersfield-get-its-water-from/ /service-areas/bakersfield-ca/ 301
+/service-areas/mcfarland-ca/carpet-cleaning /services/carpet-cleaning/ 301
+/service-areas/mcfarland-ca/carpet-cleaning/ /services/carpet-cleaning/ 301
