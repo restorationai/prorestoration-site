@@ -85,7 +85,7 @@ Delaying professional remediation makes the job harder and more expensive. Smoke
 
 ## The Longer Recovery: What Comes After Odor Removal
 
-Once smoke odor is neutralized, a full fire damage restoration typically involves repainting, replacing damaged drywall or insulation, refinishing or replacing flooring, and restoring or replacing contents. The odor remediation phase has to be completed before any of that work begins, otherwise you're sealing contamination inside a freshly renovated space.
+Once smoke odor is neutralized, a full [fire damage restoration](/services/fire-damage-restoration/) typically involves repainting, replacing damaged drywall or insulation, refinishing or replacing flooring, and restoring or replacing contents. The odor remediation phase has to be completed before any of that work begins, otherwise you're sealing contamination inside a freshly renovated space.
 
 For insurance purposes, the remediation company should provide detailed documentation of what was cleaned, what methods were used, and what materials were removed. This documentation becomes part of your claim and protects you if odor returns and a dispute arises about whether the work was done correctly.
 

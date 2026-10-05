@@ -84,7 +84,7 @@ You can handle surface mopping and moving furniture. The situations below requir
 - You smell anything musty, earthy, or chemical, that can indicate mold is already present or that the water source is contaminated
 - The pipe that burst was connected to a dishwasher, washing machine, or refrigerator ice maker line (appliance supply lines often carry slightly different contamination risk profiles than clean supply pipes)
 
-Professional water damage restoration involves thermal imaging cameras to find hidden moisture, calibrated drying equipment sized to the actual wet volume, and moisture logs that satisfy insurance documentation requirements. The drying process typically takes three to five days of continuous equipment operation, not a few hours with fans.
+Professional [water damage restoration](/services/water-damage-restoration/) involves thermal imaging cameras to find hidden moisture, calibrated drying equipment sized to the actual wet volume, and moisture logs that satisfy insurance documentation requirements. The drying process typically takes three to five days of continuous equipment operation, not a few hours with fans.
 
 For leaks that originated from an appliance rather than a supply line, the cleanup process is similar but the source investigation differs. A washing machine overflow or refrigerator line failure often means water has spread under cabinetry and into toe kicks that aren't visible from the surface.
 

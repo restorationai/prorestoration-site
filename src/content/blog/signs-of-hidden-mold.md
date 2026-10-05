@@ -57,7 +57,7 @@ If two or more of the signs above apply to your home, here's a practical startin
 1. **Don't disturb suspected mold.** Scrubbing a visible patch or cutting into a wall without containment releases spores into the air and can spread contamination to clean areas of the home.
 2. **Reduce humidity.** Run your HVAC on a setting that dehumidifies, or place a standalone dehumidifier in the affected room. In Bakersfield, indoor humidity should stay below 50%, the dry outdoor air is an asset here if you ventilate carefully.
 3. **Document what you're seeing.** Take photos of stains, warping, and discoloration with something in frame for scale. Note when the smell is strongest and whether it correlates with HVAC operation. This documentation is useful for both a remediation contractor and an insurance claim.
-4. **Locate and stop any active moisture source.** Mold remediation is pointless if the leak or condensation problem isn't fixed first. Check supply lines, drain connections, and roof penetrations.
+4. **Locate and stop any active moisture source.** [Mold remediation](/services/mold-remediation/) is pointless if the leak or condensation problem isn't fixed first. Check supply lines, drain connections, and roof penetrations.
 5. **Get a professional moisture assessment.** A thermal imaging camera and a calibrated moisture meter can find elevated moisture readings behind intact walls without cutting them open. This is how a trained remediator confirms whether mold is likely present before any demolition begins.
 
 ## What NOT To Do

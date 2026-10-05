@@ -59,7 +59,7 @@ If you're in the middle of a water event right now, documentation is your most i
 5. **Call your insurer to open a claim.** You'll get a claim number. Write it down.
 6. **Take reasonable steps to prevent further damage.** Your policy requires this, it's called the "duty to mitigate." Placing towels, moving furniture, and tarping an opening are all reasonable. Doing nothing while damage spreads can give the insurer grounds to reduce your payout.
 
-A professional water damage restoration company can provide a written scope of work and moisture readings that become part of your claim file, this documentation often makes the difference between a smooth payout and a protracted dispute.
+A professional [water damage restoration](/services/water-damage-restoration/) company can provide a written scope of work and moisture readings that become part of your claim file, this documentation often makes the difference between a smooth payout and a protracted dispute.
 
 ## The Hidden Costs Insurance May Not Cover, and What to Watch For
 

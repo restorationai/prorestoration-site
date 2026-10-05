@@ -84,4 +84,4 @@ If a professional inspection confirms elevated mold levels, the remediation proc
 
 That last step matters: clearance testing by an independent party is the only objective confirmation that the remediation was successful. Some contractors skip it; you should insist on it.
 
-ProRestoration Services handles mold inspection, testing, and full remediation for homeowners and property managers throughout Bakersfield and the surrounding Kern County area. If your test results are back and you're not sure what they mean, or if you've found something that warrants a closer look, call (661) 393-9306 to schedule an assessment.
+ProRestoration Services handles [mold inspection](/services/mold-inspection-testing/), testing, and full remediation for homeowners and property managers throughout Bakersfield and the surrounding Kern County area. If your test results are back and you're not sure what they mean, or if you've found something that warrants a closer look, call (661) 393-9306 to schedule an assessment.
