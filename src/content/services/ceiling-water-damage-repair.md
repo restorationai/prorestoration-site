@@ -14,7 +14,7 @@ internal_links: ["/services/", "/contact/", "/service-areas/arvin-ca/", "/servic
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "ceiling-water-damage-repair"}]
 faq: []
 service_slug: "ceiling-water-damage-repair"
-service_display: "ceiling-water-damage-repair"
+service_display: "Ceiling Water Damage Repair"
 ---
 <!-- Page body not yet generated. Run `build_site.py render --slug prorestoration` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
 
