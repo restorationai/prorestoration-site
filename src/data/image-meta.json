@@ -148,7 +148,8 @@
     "height": 768,
     "variants": [
       480,
-      768
+      768,
+      1200
     ]
   },
   "/images/services/flood-damage-restoration.webp": {
@@ -196,6 +197,15 @@
       1200
     ]
   },
+  "/images/services/lead-paint-abatement.webp": {
+    "width": 1376,
+    "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
+    ]
+  },
   "/images/services/mold-inspection-testing.webp": {
     "width": 1376,
     "height": 768,
@@ -210,7 +220,8 @@
     "height": 768,
     "variants": [
       480,
-      768
+      768,
+      1200
     ]
   },
   "/images/services/odor-removal.webp": {
@@ -254,7 +265,8 @@
     "height": 768,
     "variants": [
       480,
-      768
+      768,
+      1200
     ]
   },
   "/images/services/smoke-damage-restoration.webp": {
@@ -280,7 +292,17 @@
     "height": 768,
     "variants": [
       480,
-      768
+      768,
+      1200
+    ]
+  },
+  "/images/services/trauma-scene-cleanup.webp": {
+    "width": 1376,
+    "height": 768,
+    "variants": [
+      480,
+      768,
+      1200
     ]
   },
   "/images/services/vandalism-graffiti-removal.webp": {
