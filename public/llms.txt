@@ -93,7 +93,6 @@ This file is intended for AI assistants and language models to efficiently inges
 - [Lake Isabella, CA](https://prorestorationca.com/service-areas/lake-isabella-ca/)
 - [Weedpatch, CA](https://prorestorationca.com/service-areas/weedpatch-ca/)
 - [Buttonwillow, CA](https://prorestorationca.com/service-areas/buttonwillow-ca/)
-- [Dustin Acres, CA](https://prorestorationca.com/service-areas/dustin-acres-ca/)
 - [McFarland, CA](https://prorestorationca.com/service-areas/mcfarland-ca/)
 - [Valley Acres, CA](https://prorestorationca.com/service-areas/valley-acres-ca/)
 - [Bear Valley Springs, CA](https://prorestorationca.com/service-areas/bear-valley-springs-ca/)

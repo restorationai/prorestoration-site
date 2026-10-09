@@ -1,3 +1,17 @@
+/service-areas/dustin-acres-ca /service-areas/ 301
+/service-areas/dustin-acres-ca/ /service-areas/ 301
+/service-areas/dustin-acres-ca/water-damage-restoration /services/water-damage-restoration/ 301
+/service-areas/dustin-acres-ca/water-damage-restoration/ /services/water-damage-restoration/ 301
+/service-areas/golden-hills-ca /service-areas/ 301
+/service-areas/golden-hills-ca/ /service-areas/ 301
+/service-areas/dustin-acres-ca/air-duct-hvac-cleaning /services/water-damage-restoration/ 301
+/service-areas/dustin-acres-ca/air-duct-hvac-cleaning/ /services/water-damage-restoration/ 301
+/service-areas/dustin-acres-ca/soot-removal /services/water-damage-restoration/ 301
+/service-areas/dustin-acres-ca/soot-removal/ /services/water-damage-restoration/ 301
+/service-areas/dustin-acres-ca/water-heater-flood-cleanup /services/water-damage-restoration/ 301
+/service-areas/dustin-acres-ca/water-heater-flood-cleanup/ /services/water-damage-restoration/ 301
+/service-areas/dustin-acres-ca/water-cleanup /services/water-damage-restoration/ 301
+/service-areas/dustin-acres-ca/water-cleanup/ /services/water-damage-restoration/ 301
 /service-areas/east-niles-ca /service-areas/ 301
 /service-areas/east-niles-ca/ /service-areas/ 301
 /service-areas/east-niles-ca/water-damage-restoration /services/water-damage-restoration/ 301
@@ -111,7 +125,6 @@
 /service-areas/bear-valley-springs-ca/air-duct-hvac-cleaning /service-areas/bear-valley-springs-ca/water-damage-restoration/ 301
 /service-areas/buttonwillow-ca/air-duct-hvac-cleaning /service-areas/buttonwillow-ca/water-damage-restoration/ 301
 /service-areas/delano-ca/air-duct-hvac-cleaning /service-areas/delano-ca/water-damage-restoration/ 301
-/service-areas/dustin-acres-ca/air-duct-hvac-cleaning /service-areas/dustin-acres-ca/water-damage-restoration/ 301
 /service-areas/keene-ca/air-duct-hvac-cleaning /service-areas/keene-ca/water-damage-restoration/ 301
 /service-areas/lake-isabella-ca/air-duct-hvac-cleaning /service-areas/lake-isabella-ca/water-damage-restoration/ 301
 /service-areas/lamont-ca/air-duct-hvac-cleaning /service-areas/lamont-ca/water-damage-restoration/ 301
@@ -129,7 +142,6 @@
 /service-areas/bear-valley-springs-ca/air-duct-hvac-cleaning/ /service-areas/bear-valley-springs-ca/water-damage-restoration/ 301
 /service-areas/buttonwillow-ca/air-duct-hvac-cleaning/ /service-areas/buttonwillow-ca/water-damage-restoration/ 301
 /service-areas/delano-ca/air-duct-hvac-cleaning/ /service-areas/delano-ca/water-damage-restoration/ 301
-/service-areas/dustin-acres-ca/air-duct-hvac-cleaning/ /service-areas/dustin-acres-ca/water-damage-restoration/ 301
 /service-areas/keene-ca/air-duct-hvac-cleaning/ /service-areas/keene-ca/water-damage-restoration/ 301
 /service-areas/lake-isabella-ca/air-duct-hvac-cleaning/ /service-areas/lake-isabella-ca/water-damage-restoration/ 301
 /service-areas/lamont-ca/air-duct-hvac-cleaning/ /service-areas/lamont-ca/water-damage-restoration/ 301
@@ -150,7 +162,6 @@
 /service-areas/bear-valley-springs-ca/soot-removal /service-areas/bear-valley-springs-ca/smoke-damage-restoration/ 301
 /service-areas/buttonwillow-ca/soot-removal /service-areas/buttonwillow-ca/water-damage-restoration/ 301
 /service-areas/delano-ca/soot-removal /service-areas/delano-ca/smoke-damage-restoration/ 301
-/service-areas/dustin-acres-ca/soot-removal /service-areas/dustin-acres-ca/water-damage-restoration/ 301
 /service-areas/keene-ca/soot-removal /service-areas/keene-ca/smoke-damage-restoration/ 301
 /service-areas/lake-isabella-ca/soot-removal /service-areas/lake-isabella-ca/smoke-damage-restoration/ 301
 /service-areas/lamont-ca/soot-removal /service-areas/lamont-ca/smoke-damage-restoration/ 301
@@ -168,7 +179,6 @@
 /service-areas/bear-valley-springs-ca/soot-removal/ /service-areas/bear-valley-springs-ca/smoke-damage-restoration/ 301
 /service-areas/buttonwillow-ca/soot-removal/ /service-areas/buttonwillow-ca/water-damage-restoration/ 301
 /service-areas/delano-ca/soot-removal/ /service-areas/delano-ca/smoke-damage-restoration/ 301
-/service-areas/dustin-acres-ca/soot-removal/ /service-areas/dustin-acres-ca/water-damage-restoration/ 301
 /service-areas/keene-ca/soot-removal/ /service-areas/keene-ca/smoke-damage-restoration/ 301
 /service-areas/lake-isabella-ca/soot-removal/ /service-areas/lake-isabella-ca/smoke-damage-restoration/ 301
 /service-areas/lamont-ca/soot-removal/ /service-areas/lamont-ca/smoke-damage-restoration/ 301
@@ -189,7 +199,6 @@
 /service-areas/bear-valley-springs-ca/water-heater-flood-cleanup /service-areas/bear-valley-springs-ca/water-damage-restoration/ 301
 /service-areas/buttonwillow-ca/water-heater-flood-cleanup /service-areas/buttonwillow-ca/water-damage-restoration/ 301
 /service-areas/delano-ca/water-heater-flood-cleanup /service-areas/delano-ca/appliance-leak-cleanup/ 301
-/service-areas/dustin-acres-ca/water-heater-flood-cleanup /service-areas/dustin-acres-ca/water-damage-restoration/ 301
 /service-areas/keene-ca/water-heater-flood-cleanup /service-areas/keene-ca/water-damage-restoration/ 301
 /service-areas/lake-isabella-ca/water-heater-flood-cleanup /service-areas/lake-isabella-ca/appliance-leak-cleanup/ 301
 /service-areas/lamont-ca/water-heater-flood-cleanup /service-areas/lamont-ca/appliance-leak-cleanup/ 301
@@ -207,7 +216,6 @@
 /service-areas/bear-valley-springs-ca/water-heater-flood-cleanup/ /service-areas/bear-valley-springs-ca/water-damage-restoration/ 301
 /service-areas/buttonwillow-ca/water-heater-flood-cleanup/ /service-areas/buttonwillow-ca/water-damage-restoration/ 301
 /service-areas/delano-ca/water-heater-flood-cleanup/ /service-areas/delano-ca/appliance-leak-cleanup/ 301
-/service-areas/dustin-acres-ca/water-heater-flood-cleanup/ /service-areas/dustin-acres-ca/water-damage-restoration/ 301
 /service-areas/keene-ca/water-heater-flood-cleanup/ /service-areas/keene-ca/water-damage-restoration/ 301
 /service-areas/lake-isabella-ca/water-heater-flood-cleanup/ /service-areas/lake-isabella-ca/appliance-leak-cleanup/ 301
 /service-areas/lamont-ca/water-heater-flood-cleanup/ /service-areas/lamont-ca/appliance-leak-cleanup/ 301
@@ -232,8 +240,6 @@
 /service-areas/buttonwillow-ca/water-cleanup/ /service-areas/buttonwillow-ca/water-damage-restoration/ 301
 /service-areas/delano-ca/water-cleanup /service-areas/delano-ca/water-damage-restoration/ 301
 /service-areas/delano-ca/water-cleanup/ /service-areas/delano-ca/water-damage-restoration/ 301
-/service-areas/dustin-acres-ca/water-cleanup /service-areas/dustin-acres-ca/water-damage-restoration/ 301
-/service-areas/dustin-acres-ca/water-cleanup/ /service-areas/dustin-acres-ca/water-damage-restoration/ 301
 /service-areas/keene-ca/water-cleanup /service-areas/keene-ca/water-damage-restoration/ 301
 /service-areas/keene-ca/water-cleanup/ /service-areas/keene-ca/water-damage-restoration/ 301
 /service-areas/lake-isabella-ca/water-cleanup /service-areas/lake-isabella-ca/water-damage-restoration/ 301
