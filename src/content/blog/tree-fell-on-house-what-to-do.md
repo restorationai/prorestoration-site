@@ -44,7 +44,7 @@ Call in this order: emergency services or your utility company for any hazard, t
 
 **3. A restoration contractor for emergency tarping and structural drying.** A tarped roof or boarded window stops the damage from getting worse while the claim is processed, and most policies expect you to take this step rather than wait. ProRestoration Services answers 24/7 and can get a tarp on a damaged roof section and start pulling moisture readings the same visit, so the loss doesn't turn into a mold problem on top of the tree damage. If the impact also cracked a supply line or vent stack in the attic, which happens more often than people expect, our sister company All Pro Plumbing handles that repair as part of the same visit. One Call Does It All means you're not coordinating a plumber, a restoration crew, and a roofer separately.
 
-A licensed [IICRC-certified](https://www.iicrc.org/page/IICRCS500) contractor follows the S500 standard for structural drying, which is the industry benchmark insurers and adjusters recognize when reviewing a mitigation invoice.
+A licensed [IICRC-certified](https://www.iicrc.org/) contractor follows the S500 standard for structural drying, which is the industry benchmark insurers and adjusters recognize when reviewing a mitigation invoice.
 
 ![Who Do You Call First After a Tree Falls on Your House: tree fell on house](/images/blog/2026/10/tree-fell-on-house-what-to-do/section.webp)
 

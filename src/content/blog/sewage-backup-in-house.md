@@ -29,7 +29,7 @@ Stop the source, get people out, and don't run any water. Those three steps in t
 
 First, stop using every plumbing fixture in the house immediately. Flushing a toilet or running the sink when the main line is blocked pushes more sewage into the living space. If you can see that sewage is still actively flowing, shut off the main water supply valve. In most Kern County homes it's near the meter at the street or on the exterior wall near the front hose bib.
 
-Second, get people and pets out of the affected rooms. Category 3 water, also called black water, is defined by the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) as water that contains sewage, pathogens, or other grossly contaminated material. Direct contact or even inhaling the air in a heavily contaminated room carries real health risk, especially for children, elderly adults, or anyone immunocompromised.
+Second, get people and pets out of the affected rooms. Category 3 water, also called black water, is defined by the [IICRC S500 standard](https://iicrc.org/s500/) as water that contains sewage, pathogens, or other grossly contaminated material. Direct contact or even inhaling the air in a heavily contaminated room carries real health risk, especially for children, elderly adults, or anyone immunocompromised.
 
 Third, don't run fans, don't mop, and don't try to shop-vac the material. Fans aerosolize the contamination. A regular wet-vac is not rated for black water and will spread pathogens through its exhaust. Leave the space as-is and call a certified restoration company.
 
