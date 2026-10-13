@@ -73,7 +73,7 @@ Some water damage situations are genuinely manageable with a shop vac and a few 
 
 ...warrant a professional assessment. The musty smell in particular is worth taking seriously, that odor is microbial volatile organic compounds (MVOCs), which are a byproduct of active mold metabolism. If you can smell it, the colony is already established.
 
-ProRestoration Services handles both [water damage restoration](/water-damage-restoration) and [mold remediation](/mold-remediation) in Bakersfield and the surrounding San Joaquin Valley. A technician can use moisture mapping equipment to identify exactly where water has traveled, including inside walls and under slabs, before any demolition begins. That matters because unnecessary demolition is expensive, but missed moisture is worse.
+ProRestoration Services handles both [water damage restoration](/services/water-damage-restoration/) and [mold remediation](/services/mold-remediation/) in Bakersfield and the surrounding San Joaquin Valley. A technician can use moisture mapping equipment to identify exactly where water has traveled, including inside walls and under slabs, before any demolition begins. That matters because unnecessary demolition is expensive, but missed moisture is worse.
 
 ## The Longer Recovery Timeline
 
