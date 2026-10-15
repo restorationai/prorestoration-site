@@ -69,7 +69,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.8",
-  gbpReviewCount: "118",
+  gbpReviewCount: "119",
   gbpReviews: [
     { author: "John", rating: 5, text: "Jack Bispo and his team we’re wonderful to work with. Very professional and top notch quality repairs. They replaced all of the wood flooring in our house and it’s beautiful! They were here when they said they would be here. I highly recommend them. John And Linda Fallgatter", when: "October 2026" },
     { author: "J", rating: 5, text: "Very professional and did everything we needed", when: "October 2026" },
