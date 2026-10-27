@@ -69,7 +69,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.8",
-  gbpReviewCount: "125",
+  gbpReviewCount: "126",
   gbpReviews: [
     { author: "Christopher", rating: 5, text: "I have used Pro Restoration on a few of our projects and let me tell you his handshake is solid he is one of the most caring business owners I have ever met does top-notch work treat every home like it’s his own All the way from the office staff to his technicians they are one of the best companies…", when: "October 2026" },
     { author: "Kathy", rating: 4, text: "Water damage in guest bedroom from leaking ceiling was repaired satisfactorily", when: "October 2026" },
