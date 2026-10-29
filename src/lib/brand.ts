@@ -69,14 +69,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.8",
-  gbpReviewCount: "126",
+  gbpReviewCount: "127",
   gbpReviews: [
+    { author: "Marie", rating: 5, text: "I’ve used Pro restoration multiple times for multiple projects and emergency Sease once I had water damage and mold damage and another time was for remodeling and repairs of walls on a home that was over 100 years old and their work is amazing and beautiful", when: "October 2026" },
     { author: "Christopher", rating: 5, text: "I have used Pro Restoration on a few of our projects and let me tell you his handshake is solid he is one of the most caring business owners I have ever met does top-notch work treat every home like it’s his own All the way from the office staff to his technicians they are one of the best companies…", when: "October 2026" },
     { author: "Kathy", rating: 4, text: "Water damage in guest bedroom from leaking ceiling was repaired satisfactorily", when: "October 2026" },
     { author: "Linda", rating: 5, text: "We had a leak in our kitchen & had to have our entire kitchen remodeled. I am very happy with the remodel. Pro Restoration’s crew was respectful & timely. The work they did looks great and I am thrilled to cook now in my kitchen with my new appliances. We had quartz countertops put in and new…", when: "October 2026" },
     { author: "Connie", rating: 5, text: "Pro restoration did a great job. The technicians who did our work were knowledgeable and courageous with my wife.", when: "October 2026" },
     { author: "Kacie", rating: 5, text: "They were quick & reliable. They did an excellent job with restoring our home after our water heater destroyed 2 rooms.", when: "October 2026" },
-    { author: "John", rating: 5, text: "Jack Bispo and his team we’re wonderful to work with. Very professional and top notch quality repairs. They replaced all of the wood flooring in our house and it’s beautiful! They were here when they said they would be here. I highly recommend them. John And Linda Fallgatter", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Bakersfield, CA.",
   // optional custom insurance positioning line (Hero renders only when set)
