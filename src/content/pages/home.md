@@ -20,7 +20,7 @@ When water is soaking into your drywall, smoke odor is embedded in every surface
 
 ## Services we handle
 
-**Water damage restoration**, Whether it's a burst pipe at 2 a.m., a water heater that let go, or flooding from a backed-up sewer line, standing water starts damaging structural materials within hours and creates conditions for mold growth within 24 to 48. Fast extraction and controlled drying stop the clock.
+**Water damage restoration**, Whether it's a burst pipe at 2 a.m., a water heater that let go, or flooding from a backed-up sewer line, standing water starts damaging structural materials within hours and creates conditions for mold growth within 24 to 48. Fast extraction and controlled drying stop the clock. If you searched for [water restoration near me](/services/water-damage-restoration/) in Bakersfield or Kern County, that page walks through the process for homes and commercial properties.
 
 **Fire and smoke damage restoration**, Smoke residue is acidic and keeps corroding surfaces long after the flames are out. Restoration work covers soot removal, odor neutralization, and structural repairs so the property is livable again, not just visually cleaned.
 
