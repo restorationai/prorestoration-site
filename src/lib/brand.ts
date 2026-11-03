@@ -69,7 +69,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.8",
-  gbpReviewCount: "130",
+  gbpReviewCount: "131",
   gbpReviews: [
     { author: "Lauretta", rating: 5, text: "I would recommend Pro Restoration for any and everything! They are thorough, kind and fix everything on time. They are easy to get along with, helpful and available to discuss any issues that you might have!!", when: "November 2026" },
     { author: "Rafaela", rating: 5, text: "Friendly, honest and did an amazing job!", when: "November 2026" },
