@@ -69,7 +69,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.8",
-  gbpReviewCount: "135",
+  gbpReviewCount: "136",
   gbpReviews: [
     { author: "Michael", rating: 5, text: "Really helpful people at ProRestoration Services. I learned more about how to protect a home from water damage in a few minutes than I expected to.", when: "November 2026" },
     { author: "Nancy", rating: 5, text: "Pro Restoration walked me through every detail of how insurance approval and payment works. They did a great job repairing the floors damaged by water. Thank you for your services.", when: "November 2026" },
