@@ -1,0 +1,266 @@
+{
+ "/service-areas/arvin-ca/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/arvin-ca/air-duct-cleaning/",
+  "now": "/service-areas/arvin-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/arvin-ca/water-cleanup": {
+  "planned": "/service-areas/arvin-ca/emergency-water-removal/",
+  "now": "/service-areas/arvin-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/bear-valley-springs-ca/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/bear-valley-springs-ca/air-duct-cleaning/",
+  "now": "/service-areas/bear-valley-springs-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/bear-valley-springs-ca/water-cleanup": {
+  "planned": "/service-areas/bear-valley-springs-ca/emergency-water-removal/",
+  "now": "/service-areas/bear-valley-springs-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/bear-valley-springs-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/bear-valley-springs-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/bear-valley-springs-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/buttonwillow-ca/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/buttonwillow-ca/air-duct-cleaning/",
+  "now": "/service-areas/buttonwillow-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/buttonwillow-ca/soot-removal": {
+  "planned": "/service-areas/buttonwillow-ca/smoke-damage-restoration/",
+  "now": "/service-areas/buttonwillow-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/buttonwillow-ca/water-cleanup": {
+  "planned": "/service-areas/buttonwillow-ca/emergency-water-removal/",
+  "now": "/service-areas/buttonwillow-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/buttonwillow-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/buttonwillow-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/buttonwillow-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/delano-ca/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/delano-ca/air-duct-cleaning/",
+  "now": "/service-areas/delano-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/delano-ca/water-cleanup": {
+  "planned": "/service-areas/delano-ca/emergency-water-removal/",
+  "now": "/service-areas/delano-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/keene-ca/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/keene-ca/air-duct-cleaning/",
+  "now": "/service-areas/keene-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/keene-ca/water-cleanup": {
+  "planned": "/service-areas/keene-ca/emergency-water-removal/",
+  "now": "/service-areas/keene-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/keene-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/keene-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/keene-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lake-isabella-ca/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/lake-isabella-ca/air-duct-cleaning/",
+  "now": "/service-areas/lake-isabella-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lake-isabella-ca/water-cleanup": {
+  "planned": "/service-areas/lake-isabella-ca/emergency-water-removal/",
+  "now": "/service-areas/lake-isabella-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lamont-ca/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/lamont-ca/air-duct-cleaning/",
+  "now": "/service-areas/lamont-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lamont-ca/water-cleanup": {
+  "planned": "/service-areas/lamont-ca/emergency-water-removal/",
+  "now": "/service-areas/lamont-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/maricopa-ca/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/maricopa-ca/air-duct-cleaning/",
+  "now": "/service-areas/maricopa-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/maricopa-ca/soot-removal": {
+  "planned": "/service-areas/maricopa-ca/smoke-damage-restoration/",
+  "now": "/service-areas/maricopa-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/maricopa-ca/water-cleanup": {
+  "planned": "/service-areas/maricopa-ca/emergency-water-removal/",
+  "now": "/service-areas/maricopa-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/maricopa-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/maricopa-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/maricopa-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/mcfarland-ca/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/mcfarland-ca/air-duct-cleaning/",
+  "now": "/service-areas/mcfarland-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/mcfarland-ca/soot-removal": {
+  "planned": "/service-areas/mcfarland-ca/smoke-damage-restoration/",
+  "now": "/service-areas/mcfarland-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/mcfarland-ca/water-cleanup": {
+  "planned": "/service-areas/mcfarland-ca/emergency-water-removal/",
+  "now": "/service-areas/mcfarland-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/mcfarland-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/mcfarland-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/mcfarland-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/oildale-ca/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/oildale-ca/air-duct-cleaning/",
+  "now": "/service-areas/oildale-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/oildale-ca/water-cleanup": {
+  "planned": "/service-areas/oildale-ca/emergency-water-removal/",
+  "now": "/service-areas/oildale-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/rosedale-ca/water-cleanup": {
+  "planned": "/service-areas/rosedale-ca/emergency-water-removal/",
+  "now": "/service-areas/rosedale-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/shafter-ca/water-cleanup": {
+  "planned": "/service-areas/shafter-ca/emergency-water-removal/",
+  "now": "/service-areas/shafter-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/taft-ca/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/taft-ca/air-duct-cleaning/",
+  "now": "/service-areas/taft-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/taft-ca/water-cleanup": {
+  "planned": "/service-areas/taft-ca/emergency-water-removal/",
+  "now": "/service-areas/taft-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/tehachapi-ca/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/tehachapi-ca/air-duct-cleaning/",
+  "now": "/service-areas/tehachapi-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/tehachapi-ca/water-cleanup": {
+  "planned": "/service-areas/tehachapi-ca/emergency-water-removal/",
+  "now": "/service-areas/tehachapi-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/valley-acres-ca/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/valley-acres-ca/air-duct-cleaning/",
+  "now": "/service-areas/valley-acres-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/valley-acres-ca/soot-removal": {
+  "planned": "/service-areas/valley-acres-ca/smoke-damage-restoration/",
+  "now": "/service-areas/valley-acres-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/valley-acres-ca/water-cleanup": {
+  "planned": "/service-areas/valley-acres-ca/emergency-water-removal/",
+  "now": "/service-areas/valley-acres-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/valley-acres-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/valley-acres-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/valley-acres-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wasco-ca/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/wasco-ca/air-duct-cleaning/",
+  "now": "/service-areas/wasco-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wasco-ca/water-cleanup": {
+  "planned": "/service-areas/wasco-ca/emergency-water-removal/",
+  "now": "/service-areas/wasco-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/weedpatch-ca/air-duct-hvac-cleaning": {
+  "planned": "/service-areas/weedpatch-ca/air-duct-cleaning/",
+  "now": "/service-areas/weedpatch-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/weedpatch-ca/soot-removal": {
+  "planned": "/service-areas/weedpatch-ca/smoke-damage-restoration/",
+  "now": "/service-areas/weedpatch-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/weedpatch-ca/water-cleanup": {
+  "planned": "/service-areas/weedpatch-ca/emergency-water-removal/",
+  "now": "/service-areas/weedpatch-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/weedpatch-ca/water-heater-flood-cleanup": {
+  "planned": "/service-areas/weedpatch-ca/appliance-leak-cleanup/",
+  "now": "/service-areas/weedpatch-ca/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ }
+}
