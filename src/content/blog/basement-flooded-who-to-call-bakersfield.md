@@ -7,8 +7,8 @@ primary_keyword: "basement flooded who to call in Bakersfield"
 secondary_keywords: ["my basement is flooded who do i call", "flooded basement clean up", "basement water removal near me", "what to do when your basement floods from rain", "my basement flooded what will insurance cover", "basement flooded with sewage who to call"]
 search_intent: "commercial"
 priority: 7
-hero: "https://images.prorestorationca.com/blog/2026/10/basement-flooded-who-to-call-bakersfield/hero.webp"
-og: "https://images.prorestorationca.com/blog/2026/10/basement-flooded-who-to-call-bakersfield/hero.webp"
+hero: "/images/blog/2026/10/basement-flooded-who-to-call-bakersfield/hero.webp"
+og: "/images/blog/2026/10/basement-flooded-who-to-call-bakersfield/hero.webp"
 generated_at: "2026-10-21T22:50:11Z"
 manual_override: false
 internal_links: ["/services/water-damage-restoration/", "/services/sewage-cleanup/", "/services/emergency-water-removal/", "/services/basement-flooding-cleanup/", "/services/mold-remediation/", "/"]
@@ -43,7 +43,7 @@ Groundwater seeping through a foundation crack under hydrostatic pressure, or di
 
 Storm runoff that pools against the foundation and flows in over a sill plate, through a window well, or through a crack during heavy rain is a different animal: that's surface water, Category 3, and it carries soil, fertilizer, and street debris with it. So does any backup from a sewer line or floor drain beyond the trap. Both call for full PPE and antimicrobial treatment, covered in more detail in our [sewage backup guide](/blog/sewage-backup-in-house/).
 
-![Does it matter what kind of water is in the basement: basement flooded who to call in Bakersfield](https://images.prorestorationca.com/blog/2026/10/basement-flooded-who-to-call-bakersfield/section.webp)
+![Does it matter what kind of water is in the basement: basement flooded who to call in Bakersfield](/images/blog/2026/10/basement-flooded-who-to-call-bakersfield/section.webp)
 
 ## What happens when you call ProRestoration Services?
 

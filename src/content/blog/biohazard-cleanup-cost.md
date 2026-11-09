@@ -7,8 +7,8 @@ primary_keyword: "biohazard cleanup cost"
 secondary_keywords: ["how much does biohazard cleanup cost", "biohazard cleanup cost per hour", "biohazard cleanup cost bakersfield", "does homeowners insurance cover biohazard cleanup", "who pays for biohazard cleanup", "servpro biohazard cleanup cost"]
 search_intent: "commercial"
 priority: 7
-hero: "https://images.prorestorationca.com/blog/2026/10/biohazard-cleanup-cost/hero.webp"
-og: "https://images.prorestorationca.com/blog/2026/10/biohazard-cleanup-cost/hero.webp"
+hero: "/images/blog/2026/10/biohazard-cleanup-cost/hero.webp"
+og: "/images/blog/2026/10/biohazard-cleanup-cost/hero.webp"
 generated_at: "2026-10-19T17:35:52Z"
 manual_override: false
 internal_links: ["/services/biohazard-cleanup/", "/services/sewage-cleanup/", "/services/reconstruction/", "/blog/sewage-backup-in-house/", "/contact/", "/"]
@@ -51,7 +51,7 @@ The price moves based on five main factors: contamination category, square foota
 
 **Reconstruction needs.** If drywall, flooring, or framing was removed, rebuilding that space is a separate phase billed on top of the cleanup itself. This is where [the client's reconstruction crew](/services/reconstruction/) typically picks up the job after the biohazard and sewage cleanup work is complete.
 
-![What Drives the Cost of a Biohazard Cleanup Job: biohazard cleanup cost](https://images.prorestorationca.com/blog/2026/10/biohazard-cleanup-cost/section.webp)
+![What Drives the Cost of a Biohazard Cleanup Job: biohazard cleanup cost](/images/blog/2026/10/biohazard-cleanup-cost/section.webp)
 
 ## Is Biohazard Cleanup Billed by the Hour?
 

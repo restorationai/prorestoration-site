@@ -7,8 +7,8 @@ primary_keyword: "musty smell in house in Bakersfield who to call"
 secondary_keywords: ["black mold testing in Bakersfield", "home mold testing bakersfield", "mold testing for home", "swamp cooler mold", "mold testing for renters in Bakersfield", "free mold testing in Bakersfield"]
 search_intent: "commercial"
 priority: 7
-hero: "https://images.prorestorationca.com/blog/2026/11/musty-smell-in-house-bakersfield-who-to-call/hero.webp"
-og: "https://images.prorestorationca.com/blog/2026/11/musty-smell-in-house-bakersfield-who-to-call/hero.webp"
+hero: "/images/blog/2026/11/musty-smell-in-house-bakersfield-who-to-call/hero.webp"
+og: "/images/blog/2026/11/musty-smell-in-house-bakersfield-who-to-call/hero.webp"
 generated_at: "2026-11-02T01:57:50Z"
 manual_override: false
 internal_links: ["/services/mold-inspection-testing/", "/services/water-leak-detection/", "/services/mold-remediation/", "/services/odor-removal/", "/blog/slab-leak-repair-cost/", "/blog/how-to-test-for-mold/", "/blog/mold-inspection-cost/", "/"]
@@ -42,7 +42,7 @@ You can rule out the most common Bakersfield sources yourself in about 15 minute
 
 If you find an active drip, shut off the supply valve to that fixture (or the main, for a suspected slab leak) and get it fixed before anything else. If you can't find a source but the smell is strongest in one room, that's a sign the water is behind a wall, under a slab, or above a ceiling, and it's time to call someone with equipment to find it.
 
-![What can you check safely before calling anyone: musty smell in house in Bakersfield who to call](https://images.prorestorationca.com/blog/2026/11/musty-smell-in-house-bakersfield-who-to-call/section.webp)
+![What can you check safely before calling anyone: musty smell in house in Bakersfield who to call](/images/blog/2026/11/musty-smell-in-house-bakersfield-who-to-call/section.webp)
 
 ## Why do store-bought mold test kits give misleading results?
 

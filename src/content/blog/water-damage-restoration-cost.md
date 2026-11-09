@@ -7,8 +7,8 @@ primary_keyword: "water damage restoration cost"
 secondary_keywords: ["water damage repair cost", "average cost of water damage restoration", "water damage restoration cost per square foot", "cost to dry out a house after a leak", "water damage restoration cost bakersfield"]
 search_intent: "commercial"
 priority: 7
-hero: "https://images.prorestorationca.com/blog/2026/10/water-damage-restoration-cost/hero.webp"
-og: "https://images.prorestorationca.com/blog/2026/10/water-damage-restoration-cost/hero.webp"
+hero: "/images/blog/2026/10/water-damage-restoration-cost/hero.webp"
+og: "/images/blog/2026/10/water-damage-restoration-cost/hero.webp"
 generated_at: "2026-10-17T14:16:34Z"
 manual_override: false
 internal_links: ["/services/water-damage-restoration/", "/blog/how-long-does-water-damage-restoration-take/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/does-homeowners-insurance-cover-water-damage/", "/"]
@@ -48,7 +48,7 @@ Four things move the price most: the water category, how many square feet and wh
 - **Response time.** Water sitting more than 24 to 48 hours gives mold a window to start growing, which can add a separate remediation line item to the invoice.
 - **Code upgrades.** Pre-1970 homes in Oleander, Westchester, and East Bakersfield often still run galvanized supply pipe or cast-iron drains. Replacing a failed section to current code is work the original plumbing never required, and it adds to the bill.
 
-![What drives water damage costs up or down: water damage restoration cost](https://images.prorestorationca.com/blog/2026/10/water-damage-restoration-cost/section.webp)
+![What drives water damage costs up or down: water damage restoration cost](/images/blog/2026/10/water-damage-restoration-cost/section.webp)
 
 ## What does homeowners insurance cover versus my deductible?
 

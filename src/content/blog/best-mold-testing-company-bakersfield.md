@@ -7,8 +7,8 @@ primary_keyword: "best mold testing company in Bakersfield"
 secondary_keywords: ["who to call for mold testing in Bakersfield", "mold inspection bakersfield", "mold testing cost in Bakersfield", "mold clearance testing in Bakersfield", "mold inspection before buying a house in Bakersfield", "best mold testing near me"]
 search_intent: "commercial"
 priority: 7
-hero: "https://images.prorestorationca.com/blog/2026/10/best-mold-testing-company-bakersfield/hero.webp"
-og: "https://images.prorestorationca.com/blog/2026/10/best-mold-testing-company-bakersfield/hero.webp"
+hero: "/images/blog/2026/10/best-mold-testing-company-bakersfield/hero.webp"
+og: "/images/blog/2026/10/best-mold-testing-company-bakersfield/hero.webp"
 generated_at: "2026-10-30T22:45:20Z"
 manual_override: false
 internal_links: ["/services/mold-inspection-testing/", "/services/mold-remediation/", "/blog/mold-inspection-cost/", "/services/water-leak-detection/", "/about/", "/"]
@@ -40,7 +40,7 @@ You may have seen advice online that says to hire an inspector who has zero conn
 
 The practical upside of one company handling both: if testing does confirm a problem, you're not starting over with a second contractor who has to re-learn the property. ProRestoration also works alongside its sister company, All Pro Plumbing, under the same "One Call Does It All" approach, so a slab leak or failed supply line feeding the moisture problem gets diagnosed and repaired by the same team that's drying out the damage and testing the air. If the moisture source is still active, our [water leak detection](/services/water-leak-detection/) team can find it before mold testing even happens, because testing a space with an active leak just gets you the same bad result twice.
 
-![Who Should You Call for Mold Testing in Bakersfield: best mold testing company in Bakersfield](https://images.prorestorationca.com/blog/2026/10/best-mold-testing-company-bakersfield/section.webp)
+![Who Should You Call for Mold Testing in Bakersfield: best mold testing company in Bakersfield](/images/blog/2026/10/best-mold-testing-company-bakersfield/section.webp)
 
 ## What Does a Good Mold Inspection Report Include?
 

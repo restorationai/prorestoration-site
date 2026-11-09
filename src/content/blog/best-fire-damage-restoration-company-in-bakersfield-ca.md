@@ -7,8 +7,8 @@ primary_keyword: "best fire damage restoration company in Bakersfield, CA"
 secondary_keywords: ["best fire damage restoration companies Bakersfield", "top rated fire damage restoration Bakersfield CA", "who is the best fire damage restoration company in Bakersfield", "fire damage cleanup Bakersfield", "fire restoration Bakersfield", "smoke damage cleanup Bakersfield"]
 search_intent: "commercial"
 priority: 7
-hero: "https://images.prorestorationca.com/blog/2026/10/best-fire-damage-restoration-company-in-bakersfield-ca/hero.webp"
-og: "https://images.prorestorationca.com/blog/2026/10/best-fire-damage-restoration-company-in-bakersfield-ca/hero.webp"
+hero: "/images/blog/2026/10/best-fire-damage-restoration-company-in-bakersfield-ca/hero.webp"
+og: "/images/blog/2026/10/best-fire-damage-restoration-company-in-bakersfield-ca/hero.webp"
 generated_at: "2026-10-28T17:31:27Z"
 manual_override: false
 internal_links: ["/services/fire-damage-restoration/", "/blog/fire-damage-restoration-bakersfield/", "/blog/fire-damage-restoration-process/", "/blog/smoke-odor-removal-techniques/", "/blog/choosing-a-restoration-company/", "/"]
@@ -66,7 +66,7 @@ Paul Davis Restoration of Bakersfield, CA, located at 6730 Charity Ave unit 4, B
 | Rainbow Restoration of Bakersfield | 4.9 | 18 | Not listed | Not listed |
 | Paul Davis Restoration of Bakersfield, CA | 5.0 | 51 | Not listed | Not listed |
 
-![How These Companies Compare: best fire damage restoration company in Bakersfield, CA](https://images.prorestorationca.com/blog/2026/10/best-fire-damage-restoration-company-in-bakersfield-ca/section.webp)
+![How These Companies Compare: best fire damage restoration company in Bakersfield, CA](/images/blog/2026/10/best-fire-damage-restoration-company-in-bakersfield-ca/section.webp)
 
 ## What Should You Check Before Hiring a Fire Damage Company in Bakersfield?
 

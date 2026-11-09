@@ -7,8 +7,8 @@ primary_keyword: "suicide cleanup in Bakersfield who to call"
 secondary_keywords: ["suicide cleanup", "who cleans up after a death at home", "who to call after a death at home in Bakersfield", "unattended death cleanup", "who pays for crime scene cleanup", "does homeowners insurance cover trauma cleanup"]
 search_intent: "commercial"
 priority: 7
-hero: "https://images.prorestorationca.com/blog/2026/10/suicide-cleanup-bakersfield-who-to-call/hero.webp"
-og: "https://images.prorestorationca.com/blog/2026/10/suicide-cleanup-bakersfield-who-to-call/hero.webp"
+hero: "/images/blog/2026/10/suicide-cleanup-bakersfield-who-to-call/hero.webp"
+og: "/images/blog/2026/10/suicide-cleanup-bakersfield-who-to-call/hero.webp"
 generated_at: "2026-10-26T10:47:45Z"
 manual_override: false
 internal_links: ["/services/trauma-scene-cleanup/", "/services/biohazard-cleanup/", "/services/odor-removal/", "/services/contents-restoration-storage/", "/"]
@@ -36,7 +36,7 @@ In Bakersfield, officers from the Bakersfield Police Department respond first, o
 
 This step can take a few hours, and sometimes stretches into the next day depending on the investigation. Families are often advised to stay elsewhere, with a friend, relative, or hotel, during this window. Once the coroner's office signs off, you're legally and practically clear to bring in help.
 
-![Who Releases the Scene, Bakersfield Police or the Coroner: suicide cleanup in Bakersfield who to call](https://images.prorestorationca.com/blog/2026/10/suicide-cleanup-bakersfield-who-to-call/section.webp)
+![Who Releases the Scene, Bakersfield Police or the Coroner: suicide cleanup in Bakersfield who to call](/images/blog/2026/10/suicide-cleanup-bakersfield-who-to-call/section.webp)
 
 ## Why Shouldn't Family Clean This Themselves?
 

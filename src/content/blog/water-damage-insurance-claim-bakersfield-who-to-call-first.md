@@ -7,8 +7,8 @@ primary_keyword: "water damage insurance claim in Bakersfield who to call first"
 secondary_keywords: ["what to do after water damage in Bakersfield", "water damage insurance claim", "does homeowners insurance cover water damage", "documenting water damage for insurance", "emergency water removal before the adjuster arrives", "sudden leak vs long-term seepage coverage"]
 search_intent: "commercial"
 priority: 7
-hero: "https://images.prorestorationca.com/blog/2026/11/water-damage-insurance-claim-bakersfield-who-to-call-first/hero.webp"
-og: "https://images.prorestorationca.com/blog/2026/11/water-damage-insurance-claim-bakersfield-who-to-call-first/hero.webp"
+hero: "/images/blog/2026/11/water-damage-insurance-claim-bakersfield-who-to-call-first/hero.webp"
+og: "/images/blog/2026/11/water-damage-insurance-claim-bakersfield-who-to-call-first/hero.webp"
 generated_at: "2026-11-04T02:57:06Z"
 manual_override: false
 internal_links: ["/services/water-damage-restoration/", "/services/emergency-water-removal/", "/services/water-leak-detection/", "/services/reconstruction/", "/blog/does-homeowners-insurance-cover-water-damage/", "/"]
@@ -40,7 +40,7 @@ A restoration crew doing this correctly will take moisture readings at the baseb
 
 If you're unsure what your specific policy requires, the California Department of Insurance publishes a [Residential Property Claims Guide](https://www.insurance.ca.gov/01-consumers/105-type/95-guides/03-res/res-prop-claim.cfm) and runs a consumer hotline at 1-800-927-4357 for homeowners who want a neutral second opinion on how a claim should be handled.
 
-![What should I do before the insurance adjuster arrives: water damage insurance claim in Bakersfield who to call first](https://images.prorestorationca.com/blog/2026/11/water-damage-insurance-claim-bakersfield-who-to-call-first/section.webp)
+![What should I do before the insurance adjuster arrives: water damage insurance claim in Bakersfield who to call first](/images/blog/2026/11/water-damage-insurance-claim-bakersfield-who-to-call-first/section.webp)
 
 ## Will my homeowners insurance cover this leak?
 

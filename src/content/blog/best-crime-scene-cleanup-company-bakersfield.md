@@ -7,8 +7,8 @@ primary_keyword: "best crime scene cleanup company in Bakersfield"
 secondary_keywords: ["crime scene cleanup near me", "trauma scene cleanup", "unattended death cleanup", "death cleanup services", "who pays for crime scene cleanup", "does insurance cover crime scene cleanup", "how long does crime scene cleanup take"]
 search_intent: "commercial"
 priority: 7
-hero: "https://images.prorestorationca.com/blog/2026/10/best-crime-scene-cleanup-company-bakersfield/hero.webp"
-og: "https://images.prorestorationca.com/blog/2026/10/best-crime-scene-cleanup-company-bakersfield/hero.webp"
+hero: "/images/blog/2026/10/best-crime-scene-cleanup-company-bakersfield/hero.webp"
+og: "/images/blog/2026/10/best-crime-scene-cleanup-company-bakersfield/hero.webp"
 generated_at: "2026-10-24T01:11:43Z"
 manual_override: false
 internal_links: ["/services/trauma-scene-cleanup/", "/services/biohazard-cleanup/", "/services/odor-removal/", "/blog/choosing-a-restoration-company/", "/blog/biohazard-cleanup-cost/", "/"]
@@ -38,7 +38,7 @@ Law enforcement or the Kern County Coroner's Office must release the scene befor
 
 This release usually comes after evidence collection is finished, which can take anywhere from several hours to a couple of days depending on the case. Once released, the property owner or a family member can authorize cleanup. A good company will ask whether the scene has been released as the first question on the call, not an afterthought.
 
-![Who Decides When a Crime Scene Can Be Cleaned: best crime scene cleanup company in Bakersfield](https://images.prorestorationca.com/blog/2026/10/best-crime-scene-cleanup-company-bakersfield/section.webp)
+![Who Decides When a Crime Scene Can Be Cleaned: best crime scene cleanup company in Bakersfield](/images/blog/2026/10/best-crime-scene-cleanup-company-bakersfield/section.webp)
 
 ## Does Insurance or CalVCB Cover Crime Scene Cleanup in California?
 

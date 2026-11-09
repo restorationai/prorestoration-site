@@ -7,8 +7,8 @@ primary_keyword: "water damage restoration case study bakersfield"
 secondary_keywords: []
 search_intent: "commercial"
 priority: 7
-hero: "https://images.prorestorationca.com/blog/2026/10/case-study-bathroom-water-damage-restoration-for-tony-in-bakersfield-ca/hero.webp"
-og: "https://images.prorestorationca.com/blog/2026/10/case-study-bathroom-water-damage-restoration-for-tony-in-bakersfield-ca/hero.webp"
+hero: "/images/blog/2026/10/case-study-bathroom-water-damage-restoration-for-tony-in-bakersfield-ca/hero.webp"
+og: "/images/blog/2026/10/case-study-bathroom-water-damage-restoration-for-tony-in-bakersfield-ca/hero.webp"
 generated_at: "2026-10-23T18:58:26Z"
 manual_override: false
 internal_links: ["/services/water-damage-restoration/", "/contact/", "/"]
