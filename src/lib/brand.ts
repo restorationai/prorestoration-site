@@ -69,14 +69,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.8",
-  gbpReviewCount: "136",
+  gbpReviewCount: "137",
   gbpReviews: [
+    { author: "Sonia", rating: 5, text: "Pro restoration services is very responsive and honest and very professional, I highly recommend them.", when: "November 2026" },
     { author: "Michael", rating: 5, text: "Really helpful people at ProRestoration Services. I learned more about how to protect a home from water damage in a few minutes than I expected to.", when: "November 2026" },
     { author: "Nancy", rating: 5, text: "Pro Restoration walked me through every detail of how insurance approval and payment works. They did a great job repairing the floors damaged by water. Thank you for your services.", when: "November 2026" },
     { author: "Lauretta", rating: 5, text: "I would recommend Pro Restoration for any and everything! They are thorough, kind and fix everything on time. They are easy to get along with, helpful and available to discuss any issues that you might have!!", when: "November 2026" },
     { author: "Rafaela", rating: 5, text: "Friendly, honest and did an amazing job!", when: "November 2026" },
     { author: "Marie", rating: 5, text: "I’ve used Pro restoration multiple times for multiple projects and emergency Sease once I had water damage and mold damage and another time was for remodeling and repairs of walls on a home that was over 100 years old and their work is amazing and beautiful", when: "October 2026" },
-    { author: "Christopher", rating: 5, text: "I have used Pro Restoration on a few of our projects and let me tell you his handshake is solid he is one of the most caring business owners I have ever met does top-notch work treat every home like it’s his own All the way from the office staff to his technicians they are one of the best companies…", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Bakersfield, CA.",
   // optional custom insurance positioning line (Hero renders only when set)
