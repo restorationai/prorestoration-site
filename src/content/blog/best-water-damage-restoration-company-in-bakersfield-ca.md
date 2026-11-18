@@ -69,11 +69,11 @@ Rainbow International of Bakersfield carries a 4.9-star Google rating with 18 re
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| ProRestoration Services |, |, | Yes | Yes |
-| 911 Restoration of Bakersfield | 4.9 | 317 |, |, |
-| Alert Disaster Restoration | 4.9 | 549 |, |, |
-| Paul Davis Restoration of Bakersfield, CA | 5.0 | 46 |, |, |
-| Rainbow International of Bakersfield | 4.9 | 18 |, |, |
+| ProRestoration Services | 4.8 | 140 | Yes | Yes |
+| 911 Restoration of Bakersfield | 4.9 | 317 | Not listed | Not listed |
+| Alert Disaster Restoration | 4.9 | 549 | Not listed | Not listed |
+| Paul Davis Restoration of Bakersfield, CA | 5.0 | 46 | Not listed | Not listed |
+| Rainbow International of Bakersfield | 4.9 | 18 | Not listed | Not listed |
 
 *24/7 and IICRC columns for competitors reflect publicly unknown status, not a negative finding.*
 
