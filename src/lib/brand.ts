@@ -69,14 +69,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.8",
-  gbpReviewCount: "140",
+  gbpReviewCount: "141",
   gbpReviews: [
+    { author: "Jon", rating: 5, text: "Jack has been in the restoration business for decades. He utilized his expertise to help us with 2 separate and difficult issues. He represents his company with wise honest counsel. If not satisfied, he will make it right. I highly recommend their services.", when: "November 2026" },
     { author: "Logan", rating: 5, text: "In bakersfield I learned that a musty smell behind a washer isn't always just dirty laundry, prorestoration services said 'if it comes back after cleaning there's probably moisture feeding it somewhere you can't see.' I'd check behind appliances now before assuming it's nothing.", when: "November 2026" },
     { author: "Tammie", rating: 5, text: "Excellent service & work done in a timely manner", when: "November 2026" },
     { author: "Sonia", rating: 5, text: "Pro restoration services is very responsive and honest and very professional, I highly recommend them.", when: "November 2026" },
     { author: "Michael", rating: 5, text: "Really helpful people at ProRestoration Services. I learned more about how to protect a home from water damage in a few minutes than I expected to.", when: "November 2026" },
     { author: "Nancy", rating: 5, text: "Pro Restoration walked me through every detail of how insurance approval and payment works. They did a great job repairing the floors damaged by water. Thank you for your services.", when: "November 2026" },
-    { author: "Lauretta", rating: 5, text: "I would recommend Pro Restoration for any and everything! They are thorough, kind and fix everything on time. They are easy to get along with, helpful and available to discuss any issues that you might have!!", when: "November 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Bakersfield, CA.",
   // optional custom insurance positioning line (Hero renders only when set)
