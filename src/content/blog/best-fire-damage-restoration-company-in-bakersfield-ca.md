@@ -60,7 +60,7 @@ Paul Davis Restoration of Bakersfield, CA, located at 6730 Charity Ave unit 4, B
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| ProRestoration Services | 4.8 | 141 | Yes | Yes |
+| ProRestoration Services | 4.8 | 142 | Yes | Yes |
 | 911 Restoration of Bakersfield | 4.9 | 316 | Not listed | Not listed |
 | Alert Disaster Restoration | 4.9 | 568 | Not listed | Not listed |
 | Rainbow Restoration of Bakersfield | 4.9 | 18 | Not listed | Not listed |
